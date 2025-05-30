@@ -31,7 +31,7 @@ Install dependencies via:
 ```bash
 pip install numpy pandas matplotlib scipy spectrum
 ```
-###Code Overview
+#Code Overview
 The script reads EEG signal files in CSV format.
 
 Applies a Butterworth bandpass filter.
